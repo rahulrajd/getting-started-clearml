@@ -7,3 +7,4 @@ seaborn
 pandas
 numpy
 plotly
+numba
